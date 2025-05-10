@@ -116,8 +116,8 @@ and mutual understanding of what the system should do and how it should perform.
 **Benefits of Use Case Diagrams:**
    Provide a clear visual representation of system functionalities.
    Help in identifying and organizing system requirements.
-   Facilitate communication among stakeholders and development team.
-
+   Facilitate communication among stakeholders and development team. 
+   
 **Acceptance Criteria ✅**
 
     Objective: Establishing clear criteria for feature completion.
